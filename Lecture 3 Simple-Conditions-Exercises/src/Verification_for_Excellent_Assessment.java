@@ -12,7 +12,7 @@ public class Verification_for_Excellent_Assessment {
             } else if (grade < 2.5) {
                 System.out.println("poor");
             }else if (grade>6) {
-                System.out.println("gosho");
+                System.out.println("NaN");
             }
         }
     }
